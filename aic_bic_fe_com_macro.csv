@@ -1,0 +1,6 @@
+"modelo","n_obs","k_params","logLik","AIC","BIC"
+"FE base (com macro)",96,6,-234.74,483.48,501.43
+"FE + VC_AI (com macro)",94,7,-223.62,463.25,483.6
+"FE + VC_AI lag (com macro)",93,7,-220.93,457.87,478.13
+"FE dinâmico + VC_AI (com macro)",94,8,-150.54,319.08,341.97
+"FE dinâmico + VC_AI lag (com macro)",93,8,-145.19,308.38,331.17
